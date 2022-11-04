@@ -1,4 +1,4 @@
-# prework-study-guide
+# Prework-Study-Guide
 bootcamp pre-work study guide
 # Pre-work Study Guide for Front-End Web Development
 
